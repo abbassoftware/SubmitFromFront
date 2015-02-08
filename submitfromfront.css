@@ -1,0 +1,40 @@
+
+
+#frontpostform  input, #frontpostform textarea { 
+    padding: 9px; 
+    border: dotted 2px #66FFFF; 
+    outline: 0; 
+    font: normal 13px/100% Verdana, Tahoma, sans-serif; 
+    width: 200px; 
+    background: #FFFFFF; 
+    margin-top: 10px;
+
+    } 
+   
+#frontpostform  textarea { 
+    width: 500px; 
+    height: 150px; 
+    line-height: 150%; 
+    } 
+   
+#frontpostform  input:hover, #frontpostform textarea:hover, 
+#frontpostform input:focus, #frontpostform textarea:focus { 
+    border-color: #3399FF; 
+    } 
+   
+#frontpostform  label { 
+    margin-left: 10px; 
+    color: #999999; 
+   
+    } 
+   
+#frontpostform  button { 
+    width: auto; 
+    padding: 15px; 
+    background: #617798; 
+    border: 0; 
+    font-size: 14px; 
+    color: #FFFFFF; 
+    float:right;
+    margin-top: 10px;
+ }
